@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">A5.2</string>
+
+    <string name="text">Menu</string>
+
+    <string name="menu_1">Computer</string>
+    <string name="menu_2">Gamepad</string>
+    <string name="menu_3">Camera</string>
+    <string name="menu_4">Video</string>
+    <string name="menu_5">Email</string>
+</resources>
